@@ -1,1 +1,1 @@
-# hello-world
+newbie developers likes chicken and soccer
